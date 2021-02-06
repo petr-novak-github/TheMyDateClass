@@ -1,0 +1,14 @@
+C:\Users\petr8\Desktop\cSharpRekavalifikace\08-ucim-se-2021-02-04\xxExcercisesOnClasses02\01-TheMyDateClass\stuff\TheMyDateClass\bin\Debug\TheMyDateClass.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\08-ucim-se-2021-02-04\xxExcercisesOnClasses02\01-TheMyDateClass\stuff\TheMyDateClass\bin\Debug\TheMyDateClass.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\08-ucim-se-2021-02-04\xxExcercisesOnClasses02\01-TheMyDateClass\stuff\TheMyDateClass\bin\Debug\TheMyDateClass.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\08-ucim-se-2021-02-04\xxExcercisesOnClasses02\01-TheMyDateClass\stuff\TheMyDateClass\obj\Debug\TheMyDateClass.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\08-ucim-se-2021-02-04\xxExcercisesOnClasses02\01-TheMyDateClass\stuff\TheMyDateClass\obj\Debug\TheMyDateClass.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\08-ucim-se-2021-02-04\xxExcercisesOnClasses02\01-TheMyDateClass\stuff\TheMyDateClass\obj\Debug\TheMyDateClass.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\08-ucim-se-2021-02-04\xxExcercisesOnClasses02\01-TheMyDateClass\stuff\TheMyDateClass\obj\Debug\TheMyDateClass.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\10-ucim-se-2021-02-06\xxExcercisesOnClasses02\01-TheMyDateClass\stuff\TheMyDateClass\bin\Debug\TheMyDateClass.exe.config
+C:\Users\petr8\Desktop\cSharpRekavalifikace\10-ucim-se-2021-02-06\xxExcercisesOnClasses02\01-TheMyDateClass\stuff\TheMyDateClass\bin\Debug\TheMyDateClass.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\10-ucim-se-2021-02-06\xxExcercisesOnClasses02\01-TheMyDateClass\stuff\TheMyDateClass\bin\Debug\TheMyDateClass.pdb
+C:\Users\petr8\Desktop\cSharpRekavalifikace\10-ucim-se-2021-02-06\xxExcercisesOnClasses02\01-TheMyDateClass\stuff\TheMyDateClass\obj\Debug\TheMyDateClass.csprojAssemblyReference.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\10-ucim-se-2021-02-06\xxExcercisesOnClasses02\01-TheMyDateClass\stuff\TheMyDateClass\obj\Debug\TheMyDateClass.csproj.CoreCompileInputs.cache
+C:\Users\petr8\Desktop\cSharpRekavalifikace\10-ucim-se-2021-02-06\xxExcercisesOnClasses02\01-TheMyDateClass\stuff\TheMyDateClass\obj\Debug\TheMyDateClass.exe
+C:\Users\petr8\Desktop\cSharpRekavalifikace\10-ucim-se-2021-02-06\xxExcercisesOnClasses02\01-TheMyDateClass\stuff\TheMyDateClass\obj\Debug\TheMyDateClass.pdb
